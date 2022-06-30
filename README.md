@@ -1,0 +1,1 @@
+A project created during a RabbitMQ training at BM
